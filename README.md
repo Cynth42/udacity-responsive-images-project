@@ -30,4 +30,4 @@ Check the page with the Chrome Dev Tools:
 
 Check the page from Page Speed Insights where lots problems exist!
 
-Copyrights 2020 GitHub, Inc.
+© Copyright 2020, GitHub Inc.
