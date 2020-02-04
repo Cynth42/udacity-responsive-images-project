@@ -2,25 +2,25 @@
 
 
 
-### My Goals here were to:
+## My Goals here were to:
 
 - Make the images fit in their containers in the viewport.
 - Restrain the width of the blog.
 - Drop the page weight.
 
-### How you will know you're done:
+## How you will know you're done:
 
 A code will appear in the Udacity Feedback. Paste the code in to the Udacity classroom to complete the quiz!
 
-More on the Udacity Front-End Grading Engine https://github.com/udacity/frontend-grading-engine
+[More on the Udacity Front-End Grading Engine](https://github.com/udacity/frontend-grading-engine)
 
-### Current Problems with the Page:
+## Current Problems with the Page:
 
 - The text is readable, but the images overflow the viewport.
 - Page weight is massive: the images have been saved as JPEGs at low quality, but they're still too big.
 - The headings, body text and images are not styled, making the post hard to read and dull to look at.
 
-### General Advice to come this Project:
+## General Advice on how to work on this Project:
 
 Check the page with the Chrome Dev Tools:
 
